@@ -32,4 +32,11 @@ The "recovered" section  provides information about the total number of recovere
 The decomposition tree is a visualization tool that can help users explore the data in more detail by breaking down the total number of recovered cases by various factors, such as country by total case.
 
 This information can be helpful for understanding the impact of COVID-19 on different populations and for identifying areas where targeted interventions might be needed to reduce the number of deaths associated with the virus.
+## Anomaly
+The anomaly detection section is designed to identify unusual or unexpected patterns or trends in the data related to deaths, confirmed cases, or recoveries associated with COVID-19. This section may use statistical or machine learning algorithms to detect anomalies in the data.
 
+For example, if there is a sudden increase or decrease in the number of deaths, confirmed cases, or recoveries reported in a particular region or country, the anomaly detection section may flag this as a potential anomaly and highlight it for further investigation.
+
+This information can be useful for public health officials and decision-makers who need to quickly identify and respond to potential outbreaks or changes in the spread of the virus. By detecting anomalies early, they may be able to take proactive measures to control the spread of the virus and reduce its impact on public health.
+## question and answer
+The Q/A (question and answer) section is designed to allow users to ask questions about the data or other information presented on the report. 
