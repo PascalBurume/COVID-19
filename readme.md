@@ -12,10 +12,24 @@ The COVID-19 dashboard typically provides an overview of the current status of t
 The dashboard may include visualizations such as graphs and charts to help people understand the trends and patterns in the data. For example, a graph might show the daily number of new cases or deaths over time, while a map might show the geographic distribution of cases.
 
 The dashboard is typically updated regularly to reflect the latest information available, and may include information at the national, state/provincial, or local level. It is designed to be a helpful resource for people who want to stay informed about the COVID-19 pandemic and make informed decisions about their health and safety.
-## confirmed
+## Confirmed
 The "confirmed" section provides information about the total number of confirmed cases of COVID-19 worldwide, broken down by country or region. This information is presented in the form of  a graph, map, and may be interactive, allowing the user to explore the data in more detail.
 
-The decomposition tree is a visualization tool that can help users explore the data in more detail by breaking down the total number of confirmed cases by various factors, such as country, age, gender, or comorbidities (i.e., underlying health conditions). For example, the user might be able to see how many cases have been reported in a particular country, and how those cases are distributed across different age groups or gender categories.
+The decomposition tree is a visualization tool that can help users explore the data in more detail by breaking down the total number of confirmed cases by various factors, such as country by total case.
 
 This information can be helpful for understanding the patterns and trends in the data, and for identifying areas where targeted interventions might be needed to control the spread of the virus.
+
+## Death
+The "death" section  provides information about the total number of deaths associated with COVID-19 worldwide, broken down by country or region. This information is  presented in the form of  a graph, or a map, and may be interactive, allowing the user to explore the data in more detail.
+
+The decomposition tree is a visualization tool that can help users explore the data in more detail by breaking down the total number of death cases by various factors, such as country by total case.
+
+This information can be helpful for understanding the impact of COVID-19 on different populations and for identifying areas where targeted interventions might be needed to reduce the number of deaths associated with the virus.
+
+## Recovered
+The "recovered" section  provides information about the total number of recovered associated with COVID-19 worldwide, broken down by country or region. This information is  presented in the form of  a graph, or a map, and may be interactive, allowing the user to explore the data in more detail.
+
+The decomposition tree is a visualization tool that can help users explore the data in more detail by breaking down the total number of recovered cases by various factors, such as country by total case.
+
+This information can be helpful for understanding the impact of COVID-19 on different populations and for identifying areas where targeted interventions might be needed to reduce the number of deaths associated with the virus.
 
